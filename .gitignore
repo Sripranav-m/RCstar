@@ -1,5 +1,6 @@
 *.lib
-
+*.uasset
+*.umap
 # Executables
 *.exe
 *.out
