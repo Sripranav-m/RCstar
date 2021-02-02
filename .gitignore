@@ -1,4 +1,9 @@
 *.lib
+Intermediate/CachedAssetRegistry.bin
+Saved/Config/CrashReportClient/UE4CC-Windows-CB78408143E664E83C7FB5A2C24962F7/
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Saved/Config/Windows/Engine.ini
+Saved/Logs/RCstar.log
 
 # Executables
 *.exe
