@@ -1,9 +1,9 @@
 *.lib
-Intermediate/CachedAssetRegistry.bin
-Saved/Config/CrashReportClient/UE4CC-Windows-CB78408143E664E83C7FB5A2C24962F7/
-Saved/Config/Windows/EditorPerProjectUserSettings.ini
-Saved/Config/Windows/Engine.ini
-Saved/Logs/RCstar.log
+/mnt/c/Users/Chirag Gupta/Documents/Unreal Projects/RCstar/Intermediate/CachedAssetRegistry.bin
+/mnt/c/Users/Chirag Gupta/Documents/Unreal Projects/RCstar/Saved/Config/CrashReportClient/
+/mnt/c/Users/Chirag Gupta/Documents/Unreal Projects/RCstar/Saved/Config/Windows/
+/mnt/c/Users/Chirag Gupta/Documents/Unreal Projects/RCstar/Saved/Logs/
+/mnt/c/Users/Chirag Gupta/Documents/Unreal Projects/RCstar/Content/InfinityBladeEffects
 
 # Executables
 *.exe
