@@ -1,9 +1,5 @@
 *.lib
-/mnt/c/Users/Chirag Gupta/Documents/Unreal Projects/RCstar/Intermediate/CachedAssetRegistry.bin
-/mnt/c/Users/Chirag Gupta/Documents/Unreal Projects/RCstar/Saved/Config/CrashReportClient/
-/mnt/c/Users/Chirag Gupta/Documents/Unreal Projects/RCstar/Saved/Config/Windows/
-/mnt/c/Users/Chirag Gupta/Documents/Unreal Projects/RCstar/Saved/Logs/
-/mnt/c/Users/Chirag Gupta/Documents/Unreal Projects/RCstar/Content/InfinityBladeEffects
+./Content/Grux/*
 
 # Executables
 *.exe
