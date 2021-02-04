@@ -937,3 +937,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.04-10.17.54:690][435]AssetCheck: New page: Asset Save: multiple assets
 [2021.02.04-10.17.54:690][435]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints/Levels/FIRST_MAP_BuiltData.FIRST_MAP_BuiltData
 [2021.02.04-10.17.54:690][435]LogContentValidation: Display: Validating World /Game/Blueprints/Levels/FIRST_MAP.FIRST_MAP
+[2021.02.04-10.24.23:424][262]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.02.04-10.24.25:428][345]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.02.04-10.24.26:439][404]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
