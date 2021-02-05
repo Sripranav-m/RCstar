@@ -1,7 +1,9 @@
 *.lib
-./Content/Grux/*
+
 
 # Executables
+/Saved/
+Content/ParagonKhaimera/
 *.exe
 *.out
 *.app
