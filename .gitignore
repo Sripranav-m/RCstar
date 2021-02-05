@@ -1,9 +1,13 @@
 *.lib
 
 
+
+
 # Executables
 /Saved/
 Content/ParagonKhaimera/
+/Intermediate/
+
 *.exe
 *.out
 *.app
