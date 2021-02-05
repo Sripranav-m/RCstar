@@ -7,7 +7,10 @@
 /Saved/
 Content/ParagonKhaimera/
 /Intermediate/
+<<<<<<< HEAD
 Content/FPSAssets
+=======
+>>>>>>> fd07147719c77f7687304731b4959cf0777df628
 
 *.exe
 *.out
@@ -36,3 +39,5 @@ Plugins/*/Binaries/*
 
 # Builds
 Build/*
+
+Content/FPSAssets/
