@@ -6150,3 +6150,39 @@ Exception rethrown at [0]:
 [2021.02.07-04.17.56:024][ 37]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UserInterface/UIi_RCstar_HealthBar.UIi_RCstar_HealthBar
 [2021.02.07-04.17.56:026][ 37]LogContentValidation: Display: Validating World /Game/Maps/testMap.testMap
 [2021.02.07-04.17.56:027][ 37]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/testMap_BuiltData.testMap_BuiltData
+[2021.02.07-04.21.55:177][893]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.02.07-04.35.50:968][621]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.07-04.35.52:690][621]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.07-04.35.52:690][621]LogAudioMixer: Display: 1: FrontRight
+[2021.02.07-04.35.53:326][622]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.07-04.35.53:371][622]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.07-04.35.53:371][622]LogAudioMixer: Display: 1: FrontRight
+[2021.02.07-04.45.04:542][269]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.02.07-04.45.05:045][270]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.02.07-04.45.52:457][399]LogRHI: Error: Present Fail Count 1
+[2021.02.07-04.45.52:554][399]LogRHI: Error: SyncInterval 0
+[2021.02.07-04.45.52:554][399]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2021.02.07-04.45.52:554][399]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2021.02.07-04.45.52:554][399]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.02.07-04.45.52:554][399]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.02.07-04.45.52:554][399]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.02.07-04.45.52:554][399]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.02.07-04.45.52:554][399]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.02.07-04.45.52:554][399]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.02.07-04.45.52:554][399]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.02.07-04.45.52:554][399]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.02.07-04.45.52:554][399]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.02.07-04.45.52:554][399]LogRHI: Error: SwapChainDesc.OutputWindow 00000000001B093A
+[2021.02.07-04.45.52:556][399]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.02.07-04.45.52:556][399]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.02.07-04.45.52:556][399]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.02.07-04.45.52:556][399]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:356 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2021.02.07-04.45.52:607][399]LogD3D11RHI: [Aftermath] GDynamicRHI=000001E43891C0C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.02.07-04.45.55:440][399]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2021.02.07-04.46.56:607][399]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.02.07-04.46.56:607][399]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.02.07-04.46.56:607][399]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.02.07-04.46.56:607][399]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2021.02.07-04.46.56:964][399]Log file closed, 02/07/21 10:16:56
